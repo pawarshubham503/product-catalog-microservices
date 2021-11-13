@@ -1,0 +1,6 @@
+insert into product_stock(id, product_name, product_price, product_Availability,product_discountoffer)
+values(1001,'bat',5000,'yes',20)
+insert into product_stock(id, product_name, product_price, product_Availability,product_discountoffer)
+values(1001,'ball',500,'yes',40)
+insert into product_stock(id, product_name, product_price, product_Availability,product_discountoffer)
+values(1001,'helmet',500,'yes',20)

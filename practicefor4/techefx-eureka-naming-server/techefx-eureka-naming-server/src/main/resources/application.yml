@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: techefx-eureka-naming-server
+server:
+  port: ${port:8761}
